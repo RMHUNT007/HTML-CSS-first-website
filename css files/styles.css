@@ -18,6 +18,11 @@ h1 {
   font-family: 'Oswald', sans-serif;
   color: rgb(125, 35, 35);
 }
+span{
+
+  color:rgb(177, 36, 36);
+}
+
 
 p {
   font-family: 'Fira sans', sans-serif;
@@ -45,7 +50,9 @@ img{
   border: 5px solid rgb(44, 44, 44);
   background-color: black;
   border-radius: 46px;
-  margin: 20px;
+  margin-top: -104px ;
+  margin-bottom: 40px;
+
 }
 
 .anker-title{

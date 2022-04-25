@@ -19,10 +19,9 @@ h1 {
   border: 2px solid rgb(177, 171, 81);
   font-size: 60px;
 }
-.first-part{
+.first-part {
   height: 115px;
 }
-
 
 ol {
   list-style: none;
@@ -62,5 +61,5 @@ img {
   background-color: rgb(205, 214, 102);
   margin: 65px 254px 81px 309px;
   padding: 2px;
-  box-shadow: 4px 4px 7px rgba(0 ,0 , 0, 0.2);
+  box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.2);
 }
